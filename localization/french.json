@@ -1,0 +1,188 @@
+{
+    "gui": {
+        "title_line_1": " M O T S",
+        "title_line_2": "C A C H É S",
+        "difficulty": "DIFFICULTÉ",
+        "category": "CATÉGORIE",
+        "language": "LANGUE",
+        "advanced_settings": "RÉGLAGES AVANCÉS",
+        "beat_the_clock": "COURSE CONTRE LA MONTRE",
+        "hide_the_words": "CACHER LES MOTS",
+        "on": "Activé",
+        "off": "Désactivé",
+        "easy": "Facile",
+        "medium": "Moyen",
+        "hard": "Difficile",
+        "maniac": "Maniaque",
+        "play": "JOUER",
+        "okay": "OK",
+        "solved": "Résolu!",
+        "you_solved": "Vous avez résolu",
+        "new_puzzle": "NOUVEAU JEU",
+        "time_is_up": "Le temps est écoulé!",
+        "no": "NON",
+        "yes": "OUI",
+        "word_directions": "Orientations des mots",
+        "give_up_and_reveal_the_puzzle": "Abandonner et dévoiler les réponses?",
+        "leave_this_puzzle": "Quitter ce jeu?",
+        "with_time_left": "Avec {time} temps restant !",
+        "random": "Aléatoire",
+        "settings": "Paramètres",
+        "sound": "Son",
+        "reveal_puzzle": "Révéler le casse-tête",
+        "restart_puzzle": "Redémarrer le casse-tête",
+        "new_puzzle_settings": "Nouveau casse-tête",
+        "main_menu_settings": "Menu Principal",
+        "help_desc_for_maniac": "En mode Maniac, les mots sont cachés et vous n'avez que 2 minutes pour tous les trouver !"
+    },
+    "categories": [
+        {
+            "name": "L'espace",
+            "words": "Planète Vaisseauspatial Austonaute Fusée Lune Saturne Uranus Jupiter Mars Vénus Mercure Pluton Neptune Gravité Galaxie Comète Étoile Orbite Astéroïde Trounoir Éclipse Voielactée Nébuleuse Supernova Solaire Zénith Annéelumière Faisceau Étoiledunord GrandeOurse Satellite Univers"
+        },
+        {
+            "name": "Les Langues",
+            "words": "Français Anglais Espagnol Mandarin Latin Portugais Hindi Arabe Bengali Russe Punjabi Allemand Japonais Vietnamien Coréen Turc Italien Polonais Swahili Perse Bulgare Indonésien Gaélique Roumain Welsh Ukrainien Lituanien Hébreu Grec Coréen"
+        },
+        {
+            "name": "Les Villes du monde",
+            "words": "Washington Toronto Berlin Paris Londres Barcelone Madrid Amsterdam Beijing Delhi Shanghai Dublin Tokyo Séoul LeCaire Moscou Chicago Tehran Baghdad Athènes Istanbul Vienne Lagos Jérusalem Lisbonne Nairobi LasVegas HongKong Oslo Rome Kyiv Lima Budapest Sydney Francfort Vancouver Montréal Alexandrie"
+        },
+        {
+            "name": "Les Sports",
+            "words": "Baseball Basketball Football Soccer Hockey Cricket Bowling Golf Frisbee Cyclisme Athlétisme Sautàlaperche Natation Gymnastique Boxe Lutte Plongée Karaté Tennis Crosse Raquette Surf But Varsity Stade Estrades Poutres Maillot Éliminatoires Arbitre"
+        },
+        {
+            "name": "Les Échecs",
+            "words": "Pion Cavalier Fou Roi Reine Tour Roque Échecetmat Fourchette Enfilade Maître Attaque Échiquier Pièces Noir Blanc Pat Ouverture Sacrifice Tournois Finale Abandonner Démissioner Tactiques Gaffe Capture"
+        },
+        {
+            "name": "La Musique",
+            "words": "Trompette Saxophone Violon Piano Clarinette Hautbois Percussions Xylophone Orgue Soliste Alto Violoncelle Flûte Trombone Tuba Clavier Harpe Guitare Contrebasse Clocheàvache Basson Symphonie Chefd'orchestre Solo Tempo Jazz Classique Concert Récital Hip-hop Radio spotify pandora Amplificateur bluegrass motown soprano Ballade Platine Vinyle"
+        },
+        {
+            "name": "Les Ordinateurs",
+            "words": "processeur codage pirate programme Wi-Fi bluetooth digital internet navigateur clavier moniteur puce octet paged'accueil actualiser sansfil logiciel barreespace retourarrière windows macintosh ordinateurportable chromebook souris curseur supprimer écran virus microsoft réseau mémoire serveur routeur graphiques lienhypertexte courriel disquedur siteweb application fichier dossier cloud câble interface commande code motdepasse système administration circuit"
+        },
+        {
+            "name": "Le Petit-déjeuner",
+            "words": "Pancake Gaufre Sirop Fruit Céréales Cheerios Beurre Oeufs Bacon Saucisse Smoothie Pommesdeterrerissolées Jus Lait Café Omelette Gruau Semouledemaïs Yaourt Muesli Scone Danoise Quiche Bagels Rôtie Gelée Fritesmaison Croissant"
+        },
+        {
+            "name": "Les Animaux sauvages",
+            "words": "éléphant rhinoceros grizzly dauphin zèbre girafe tatou guépard léopard oryctérope lion tigre orignal gorille baboin hippopotame hyène castor python loup koala panda cobra raton-laveur kangourou orang-outan tamia pantère coyote belette alligator bison carcajou"
+        },
+        {
+            "name": "Les Oiseaux",
+            "words": "perroquet pigeon pingouin moineau autruche aigle épervier pic rouge-gorge oie canard geaibleu héron faucon toucan bécasseau pluvier cardinal mésange paon dinde poulet hirondelle héron canari perruche ara cacatoès chardonneret"
+        },
+        {
+            "name": "Les Chiens",
+            "words": "Snoopy Pluto Lassie beagle bouledogue caniche labrador boxer colley lévrier chiendeberger husky mastiff york Chihuahua Teckel dobermann scoobydoo chiendeSt-Hubert dalmatien Rottweiler épagneul lévrierwhippet foxhound clifford beethoven pitbull terrier"
+        },
+        {
+            "name": "Les Animaux de compagnie",
+            "words": "Gerbille Serpent Chiot Chatton Perroquet Poissonrouge Souris Canari Aquarium Litière Laisse Nourriturepourchien Nourriturepourchat Chercher Toilette Caméléon Canari Lapin Pigeon Colombe Guppy Furet Iguane Tortue Salamandre Poissonclown Tarantule Python"
+        },
+        {
+            "name": "La Plage",
+            "words": "serviette tuba coupdesoleil vagues contre-courant algues borddemer sable océan château nager planchedesurf coquillage bronzer requin dauphin crabe seau eausalée parasol mouette étoiledemer glacière piedsnus sandale tongs lunettesdesoleil coucherdesoleil voile"
+        },
+        {
+            "name": "Les Professions",
+            "words": "Scientifique Enseignant Artiste Acteur Danseur Astronaute Conducteurd'autobus Médecin Avocat Ingénieur Contracteur Professeur Banquier Policier Pompier Musicien Actrice Politicien Directeur Détective Dentiste Athlète Infirmier Plombier Chirurgien Historien Biologiste Chimiste Physicien Boucher Journaliste Auteur Serveur Juge Barbier Concierge Libraire Thérapeute Masseur Facteur Chefd'orchestre"
+        },
+        {
+            "name": "Les Pirates",
+            "words": "planche crochet capitaine trésor île terrien crâne canon épée Barbenoire Barbe-Rouge Barbebleue sinbad coffre piller prime mutinerie cache-oeil perroquet bateau botte hors-la-loi mers matelot Sparrow or boussole Ahoy coutelas doublons pavillons corsaire scorbut abandonné ancre océan galion frégate brigantin clipper"
+        },
+        {
+            "name": "Les Super-héros",
+            "words": "superman spider-man wolverine gambit thor hulk malicia batman robin tornade cyclope colossus flash iceberg ironman daredevil veuvenoire loki mystique magnéto docteurfatalis"
+        },
+        {
+            "name": "Halloween",
+            "words": "costume citrouille bonbon momie monstre vampire sonette chatnoir sorcière mancheàbalai araignée octobre masque sinistre fantôme hanté chocolate squelette loup-garou crâne corbeau corneille pleinelune chaudron effrayer cimetière goule spectre pierretombale zombie toiled'araignée épouvantail"
+        },
+        {
+            "name": "Les Garnitures de pizza",
+            "words": "pepperoni anchois ananas bacon saucisse piment oignon brocoli poulet olives épinard champginon boulettedeviande ail jalapeno artichaut basilic persil origan parmesan tomate mozarella"
+        },
+        {
+            "name": "Les Films animés",
+            "words": "Cendrillon Hercule Aladdin RoiLion Reinedesglaces Bambi Pinocchio Fantasia Moana Rebelle QuatreRoues Wall-e ToyStory 1001Pattes Volt Dumbo Mulan Pocahontas BlancheNeige Tarzan Zootopie LesMinions"
+        },
+        {
+            "name": "La Science",
+            "words": "Chimie Bécher Expérience Biologie Physique Magnétisme Newton Einstein Edison Laser Géologie Flacon Éprouvette Atome Cellule Noyau Densité Particule Gravité Climat Microscope Organisme Molécule Acide Matière Minéral Prisme"
+        },
+        {
+            "name": "Les Pays",
+            "words": "Albanie Algérie Argentine Arménie Australie Autriche Azerbaïdjan Bahreïn Bangladesh Biélorussie Belgique Bélize Bhoutan Bolivie Botswana Brésil Bulgarie Cambodge Cameroun Canada Tchad Chili Chine Colombie CostaRica Croatie Cuba Chypre Danemark Équateur Égypte Estonie Éthiopie Finlande France Géorgie Allemagne Ghana Grèce Groenland Guatemala Guinée Guyane Haïti Honduras Hongrie Islande Inde Indonésie Iran Iraq Irlande Israël Italie Jamaïque Japon Jordanie Kazakhstan Kenya Kosovo Koweït Kirghizistan Lettonie Liban Libéria Lybie Lituanie Luxembourg Madagascar Malaisie Mexique Mongolie Maroc Mozambique Népal Nouvelle-Zélande Nigéria Nicaragua Norvège Oman Pakistan Panama Pérou Philippines Pologne Portugal Roumanie Russie ArabieSaoudite Sénégal Serbie Singapour Slovaquie Slovénie Somalie AfriqueduSud Espagne Soudan Suède Suisse Tadjikistan Thaïlande Tunisie Turquie Ouganda Ukraine Uruguay Venezuela Viêt-Nam Yémen Zambie Zimbabwe"
+        },
+        {
+            "name": "Les Mathématiques",
+            "words": "Polygone Algèbre Géométrie Arithmétique Additionner Multiplier Diviser Exposant cercle sphère surface décimale entier fraction nombre formule calcul fractal graphique statistiques équation séquence quantité calculatrice fonction médian moyenne parabole sinus cosinus tangente chiffre numéral algorithme pourcent exposant compter quotient positif négatif facteur"
+        },
+        {
+            "name": "Le Ski",
+            "words": "montagne neige fixation alpin sous-bois sentier botte hiver pente descente station télésiège plancheàneige slalom skidebosses casque lunettesdeski gants damage demi-lune billet poudreuse chalet terrain"
+        },
+        {
+            "name": "Les Instruments",
+            "words": "Maraca Tambourin Triangle Xylophone Tambour Cornemuse Basson Bugle Clarinette Flûte Cor Harmonica Violon Alto Violoncelle Contrebasse Harpe Piccolo Hautbois Saxophone Trompette Trombone Tuba Timbales Gong Cymbales Piano Orgue Sifflet Accordéon Fiddle Guitare Ukulélé Sitar"
+        },
+        {
+            "name": "La Chimie",
+            "words": "Hydrogène Hélium Lithium Carbone Azote Oxygène Sodium Silicium Soufre Chlore Argon Calcium Titane Fer Cobalt Nickel Cuivre Zinc Arsenic Argent Iode Tungstène Iridium Platine Mercure Plomb Radon Radium Uranium Chimiste Bécher Noyau Acide Réaction Atome Proton Neutron Électron Solution Composé Élément Alcalin Isotope solide liquide vapeur catalyseur liaison cristal équilibre congélation joule celcius matière métal fondant minéral mélange molécule plasma énergie"
+        },
+        {
+            "name": "Le Camping",
+            "words": "tente pique-nique régionssauvages sentier randonnée sacàdos escalade canoë chasse pêche cueillir feudecamp couteau noeud marteau lanterne lampedepoche hachette imperméable glacière bois hamac briquet boussole lampefrontale embrasement canopée pelle aventure bivouac forêt poncho s'mores chalet caravane équipement kayak baluchon leverdusoleil coucherdusoleil nature pleinair paysage crèmesolaire animauxsauvages chute roulotte"
+        },
+        {
+            "name": "Les Sports d'hiver",
+            "words": "BIATHLON BOBSLEIGH BALLON-BALAI CURLING DEMI-LUNE HOCKEY PATINAGEARTISTIQUE LUGEDECOURSE MAGNAT MONTAGNE RONDELLE PATINAGE SKELETON SKI LUGE PENTE PLANCHEÀNEIGE TOBOGGAN"
+        },
+        {
+            "name": "Les Insectes",
+            "words": "FOURMI COLÉOPTÈRE PAPILLON CIGALE BLATTE CRICKET LIBELLULE PERCE-OREILLES PUCE COCCINELLE MANTERELIGIEUSE MOUSTIQUE PAPILLONDENUIT SCARABÉE SCORPION ARAIGNÉE TERMITE GUÊPE"
+        },
+        {
+            "name": "Les Fruits",
+            "words": "POMME ABRICOT BANANE MÛRE MYRTILLE CERISE CANNEBERGE DATTE FIGUE PAMPLEMOUSSE MELONMIEL KIWI CITRON CITRONVERT MANGUE MELON NECTARINE ORANGE PAPAYE PÊCHE POIRE ANANAS PRUNE PRUNEAU CITROUILLE RAISINSEC FRAMBOISE FRAISE TRANGERINE PASTÈQUE"
+        },
+        {
+            "name": "Les Légumes",
+            "words": "ARTICHAUT ASPERGE BETTERAVE BROCOLI CHOU CAROTTE CÉLERI MAÏS CONCOMBRE AUBERGINE POIREAU LAITUE CHAMPIGNON OIGNON POIS POMMEDETERRE RADIS ÉCHALOTTE COURGE ÉPINARD NAVET IGNAME COURGETTE"
+        },
+        {
+            "name": "Les Fleurs",
+            "words": "FLEURIR RENONCULE OEILLET JONQUILLE MARGUERITE HIBISCUS JACINTHE HYDRANGÉE LAVANDE FEUILLE LILAS LOTUS MAGNOLIA SOUCI ORCHIDÉE PENSÉE PIVOINE PERVENCHE PÉTALE PÉTUNIA POLLEN PAVOT ROSE TULIPE VIOLETTE TIGE SUCCULENTE FANER"
+        },
+        {
+            "name": "Dans la cuisine",
+            "words": "TABLIER MÉLANGEUR ARMOIRE LIVREDERECETTE COMPTOIR COUVERTS ÉGOUTTOIR TIROIR RÂPE PLANCHA BOUILLOIRE COUTEAU LOUCHE SERVIETTE FOUR ÉPLUCHEUR NAPPERON MANIQUE POÊLE SPATULE CUISINIÈRE PASSOIRE NAPPE MINUTERIE GRILLE-PAIN FOUET"
+        },
+        {
+            "name": "Les Vêtements d'hiver",
+            "words": "BONNET BOTTE CARDIGAN ANORAK CACHE-OREILLES POLAIRE GANT CHAPEAU SWEATSHIRTÀCAPUCHE VESTE JEANS CHANDAIL MOUFLE PANTALONS PARKA CABAN DOUDOUNE ÉCHARPE PULL SWEATSHIRT TRENCH DÉBARDEUR"
+        },
+        {
+            "name": "Les Tissus",
+            "words": "ACRYLIQUE CACHEMIRE CHIFFON COTON DENIM FEUTRE JERSEY DENTELLE CUIR LIN NATUREL NYLON POLYESTER RAYONNE SOIE ÉLASTHANNE SUÈDE SYNTHÉTIQUE TWEED VELOURS LAINE"
+        },
+        {
+            "name": "Les Constellations",
+            "words": "ANDROMÈDE VERSEAU BÉLIER GRANDEOURSE CANCER CAPRICORNE CENTAURE GÉMEAUX HERCULE HYDRE LION BALANCE ORION PERSÉE PHÉNIX POISSONS SCORPION TAUREAN VIERGE"
+        },
+        {
+            "name": "Cuisiner",
+            "words": "CUIREAUFOUR PAIN GÂTEAU COMBINER COOKIE CRÈMEANGLAISE CRÈME DESSERT PÂTE FERMENTER FARINE FONDANT GLAÇAGE GÉLATINE GLUTEN GRAISSE PÉTRIR LEVANT LAIT MUFFIN FOUR PÂTISSERIE PRÉFERMENTER SUCRE BATTRE LEVURE"
+        },
+        {
+            "name": "Les Costumes classiques",
+            "words": "ANGE ANIMAL CLOWN DINOSAURE MÉDECIN FANTÔME ROI SAUVETEUR SIRÈNE MONSTRE INFIRMIÈRE PIRATE CITROUILLE REINE MATELOT ÉPOUVANTAIL SHÉRIF SQUELETTE SUPER-HÉROS VAMPIRE LOUP-GAROU SORCIÈRE MAGICIEN ZOMBIE"
+        }
+    ]
+}

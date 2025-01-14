@@ -1,0 +1,244 @@
+{
+    "gui": {
+        "title_line_1": " W  O  R  D",
+        "title_line_2": "S  E  A  R  C  H",
+        "difficulty": "DIFFICULTY",
+        "category": "CATEGORY",
+        "language": "LANGUAGE",
+        "advanced_settings": "ADVANCED SETTINGS",
+        "beat_the_clock": "BEAT THE CLOCK",
+        "hide_the_words": "HIDE THE WORDS",
+        "on": "On",
+        "off": "Off",
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard",
+        "maniac": "Maniac",
+        "play": "PLAY",
+        "okay": "OKAY",
+        "solved": "Solved!",
+        "you_solved": "You solved",
+        "new_puzzle": "NEW PUZZLE",
+        "time_is_up": "Time's up!",
+        "no": "NO",
+        "yes": "YES",
+        "word_directions": "Word directions",
+        "give_up_and_reveal_the_puzzle": "Give up and reveal the puzzle?",
+        "leave_this_puzzle": "Leave this puzzle?",
+        "with_time_left": "with {} left!",
+        "random": "Random",
+        "settings": "Settings",
+        "sound": "Sound",
+        "reveal_puzzle": "Reveal Puzzle",
+        "restart_puzzle": "Restart Puzzle",
+        "new_puzzle_settings": "New Puzzle",
+        "main_menu_settings": "Main Menu",
+        "help_desc_for_maniac": "In Maniac Mode, the words are hidden and you only have 2 minutes to find them all!"
+    },
+    "categories": [
+        {
+            "name": "Outer Space",
+            "words": "Planet Spaceship Astronaut Rocket Moon Saturn Uranus Jupiter Mars Venus Mercury Pluto Neptune Gravity Galaxy Comet Star Orbit Asteroid Blackhole Eclipse Milkyway Nebula Supernova Solar Zenith Lightyear Cluster Northstar Bigdipper Satellite Universe"
+        },
+        {
+            "name": "Languages",
+            "words": "French English Spanish Mandarin Latin Portuguese Hindi Arabic Bengali Russian Punjabi German Japanese Vietnamese Korean Turkish Italian Polish Swahili Persian Bulgarian Indonesian Gaelic Romanian Welsh Ukrainian Lithuanian hebrew Greek Korean"
+        },
+        {
+            "name": "U.S. Presidents",
+            "words": "Washington Adams Jefferson Madison Monroe Jackson Vanburen Harrison Tyler Polk Taylor Fillmore Pierce Buchanan Lincoln Johnson Grant Hayes Garfield Arthur Cleveland Harrison McKinley Roosevelt Taft Wilson Harding Coolidge Hoover Roosevelt Truman Eisenhower Kennedy Johnson Nixon Ford Carter Reagan Bush Clinton Obama Trump Biden"
+        },
+        {
+            "name": "U.S. States",
+            "words": "Alabama Alaska Arizona Arkansas California Colorado Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Michigan Minnesota Missouri Montana Nebraska Nevada NewJersey NewMexico NewYork Ohio Oklahoma Oregon Tennessee Texas Utah Vermont Virginia Washington Wisconsin Wyoming"
+        },
+        {
+            "name": "World Cities",
+            "words": "Washington Toronto Berlin Paris London Barcelona Madrid Amsterdam Beijing Delhi Shanghai Dublin Tokyo Seoul Cairo Moscow Chicago Tehran Baghdad Athens Istanbul Vienna Lagos Jerusalem Lisbon Nairobi LasVegas Hongkong Oslo Rome Kiev Lima Budapest Sydney Frankfurt Vancouver Montreal Alexandria"
+        },
+        {
+            "name": "Sports",
+            "words": "Baseball Basketball Football Soccer Hockey Cricket Bowling Golf Frisbee Bicycling Track Polevault Swimming Gymnastics Boxing Wrestling Diving Karate Tennis Lacrosse Racket surfing Goal Varsity Stadium Bleachers Rafters Jersey playoffs Referee Umpire"
+        },
+        {
+            "name": "Chess",
+            "words": "Pawn Knight Bishop King Queen Rook Castle Checkmate Fork Skewer Master Attack Board Pieces Black White Stalemate Opening Sacrifice tournament Endgame Forfeit Resign Tactics Blunder Capture"
+        },
+        {
+            "name": "Music",
+            "words": "Trumpet Saxophone Violin Piano Clarinet Oboe Drums Xylophone Organ soloist Viola Cello Flute Trombone Tuba Keyboard Harp Guitar Bass Cowbell Bassoon symphony conductor Solo Tempo Jazz Classical Concert Recital hiphop Radio spotify pandora amplifier bluegrass motown soprano ballad platinum vinyl"
+        },
+        {
+            "name": "Computers",
+            "words": "processor coding hacker program wifi bluetooth digital internet browser keyboard monitor chip byte homepage refresh wireless software spacebar backspace windows macintosh laptop chromebook mouse cursor delete screen virus microsoft network memory server router graphics hyperlink email harddrive website application file folder cloud cable interface command code password system admin circuit"
+        },
+        {
+            "name": "Breakfast",
+            "words": "Pancake Waffle Syrup Fruit Cereal Cheerios Butter Eggs Bacon Sausage Smoothie Hashbrown Diner Juice Milk Coffee Omelette Oatmeal Grits Yogurt Granola Scone Danish Quiche Bagels Toast Jelly Homefries Croissant"
+        },
+        {
+            "name": "Wild Animals",
+            "words": "elephant rhinoceros grizzly dolphin zebra giraffe armadillo cheetah leopard aardvark lion tiger moose gorilla baboon hippo hyena beaver python wolf koala panda cobra raccoon kangaroo orangutan chipmunk panther coyote weasel alligator bison wolverine"
+        },
+        {
+            "name": "Birds",
+            "words": "parrot pigeon penguin sparrow ostrich eagle hawk woodpecker robin goose duck bluejay heron falcon toucan sandpiper plover cardinal chickadee peacock turkey chicken swallow heron canary parakeet macaw cockatoo goldfinch"
+        },
+        {
+            "name": "Dogs",
+            "words": "Snoopy Pluto Lassie beagle bulldog poodle labrador  boxer collie greyhound sheepdog husky mastiff yorkie Chihuahua Dachshund doberman scoobydoo bloodhound dalmatian Rottweiler spaniel whippet foxhound clifford Beethoven pitbull terrier"
+        },
+        {
+            "name": "Football Teams",
+            "words": "Bills  Dolphins  Patriots  Jets  Ravens  Bengals  Browns  Steelers Texans  Colts  Jaguars  Titans  Broncos  Chiefs  Raiders  Chargers  Cowboys  Giants  Eagles  Redskins  Bears  Lions  Packers  Vikings  Falcons  Panthers  Saints  Cardinals  Rams  Seahawks Niners"
+        },
+        {
+            "name": "Baseball Teams",
+            "words": "Orioles Braves RedSox Cubs Reds Indians whitesox Tigers Rockies Dodgers Astros Royals Marlins Brewers Angels Twins Mets Yankees Phillies Pirates Athletics Padres Mariners Rays Giants Cardinals Rangers BlueJays Nationals"
+        },
+        {
+            "name": "Pets",
+            "words": "Gerbil Bunny Snake Puppy Kitten Parrot Goldfish Mouse canary Fishtank Litter Leash Dogfood Catfood Fetch Grooming Chameleon Canary Rabbit Pigeon Dove Guppy ferret Iguana Turtle Salamander Clownfish tarantula python"
+        },
+        {
+            "name": "The Beach",
+            "words": "towel snorkel sunburn waves riptide seaweed seashore sand Ocean Castle Swimming Surfboard Shell Tanning Shark Dolphin Crab Bucket Saltwater Umbrella Seagull Starfish cooler barefoot sandal flipflop sunglasses sunset sailing"
+        },
+        {
+            "name": "Careers",
+            "words": "Scientist Teacher Artist Actor Dancer Astronaut Busdriver Doctor Lawyer Engineer Contractor Professor Banker Policeman Fireman Musician Actress Politician Principal Detective Dentist Athlete Nurse Plumber Surgeon Historian Biologist Chemist Physicist Butcher Journalist Author Waiter Judge Barber Janitor Librarian Therapist Masseuse Mailman Conductor"
+        },
+        {
+            "name": "Pirates",
+            "words": "plank hook captain treasure island landlubber skull cannon sword blackbeard redbeard bluebeard sinbad chest plunder bounty mutiny eyepatch parrot Ship Booty Outlaw Seas Deckhand Sparrow Gold Compass Ahoy cutlass matey doubloons jollyroger privateer scurvy scallywag marooned anchor ocean galleon frigate brigantine clipper"
+        },
+        {
+            "name": "Superheroes",
+            "words": "superman spiderman wolverine gambit thor hulk rogue batman robin storm cyclops colossus flash iceman ironman daredevil blackwidow loki mystique magneto doctordoom"
+        },
+        {
+            "name": "Halloween",
+            "words": "costume pumpkin trick treat candy mummy monster vampire doorbell blackcat witch broomstick spider october mask spooky ghost haunted chocolate Skeleton Werewolf Skull Raven Crow Fullmoon Cauldron frighten graveyard ghoul specter tombstone zombie cobweb phantom scarecrow"
+        },
+        {
+            "name": "Pizza Toppings",
+            "words": "pepperoni anchovies pineapple bacon sausage peppers onion broccoli chicken olives spinach mushroom meatball garlic jalapeno artichoke basil parsley oregano parmesan tomato mozzarella"
+        },
+        {
+            "name": "Cars",
+            "words": "Mustang Corvette Chevrolet Ford Chrysler Dodge Toyota Honda Nissan Mazda Hyundai Buick Cadillac Jaguar Mitsubishi Mercedes Subaru Volkswagen Volvo Lexus Ferrari Tesla Porsche Delorean Beetle Sedan Crossover Hybrid Minivan Pickup Jeep RollsRoyce Audi Wrangler Humvee Escalade acura Limousine Prius"
+        },
+        {
+            "name": "Animated Movies",
+            "words": "Cinderella Hercules Aladdin Lionking Frozen Bambi Pinocchio Fantasia Moana Brave Cars Walle Toystory Bugslife Bolt Dumbo Mulan Pocahontas Snowwhite Tarzan Zootopia Minions"
+        },
+        {
+            "name": "Palindromes",
+            "words": "Civic Kayak Level Madam Radar Racecar sagas tenet stats shahs redder deified repaper reviver rotator noon refer rotor deed kook redivider solos"
+        },
+        {
+            "name": "Reversible Words",
+            "words": "Deliver Desserts Diaper Drawer Nametag Leper Lived Looter Pacer Parts Pilfer Pupils Steels Sloops Spoons Straw Denier plug gums regal Recaps Spins"
+        },
+        {
+            "name": "French Words",
+            "words": "rendezvous bourgeois brunette chauffeur chic critique dejavu souvenir apropos bonvoyage cliche faux bouquet boutique omelette armoire chef silhouette petite voila boulevard culdesac cafe couture adieu avantgarde nouveau ballet cache charlatan concierge debacle decor derriere dossier eclair facade fauxpas fiance gaffe gauche genre impasse liaison melee montage motif mousse protege rapport reservoir sabotage sacrebleu saute soiree tableau touche venue"
+        },
+        {
+            "name": "Hindi Words",
+            "words": "Bandana Bungalow Cheetah Chutney Dinghy Juggernaut Jungle Khaki Karma Mogul Mantra Nirvana Pyjamas Pundit Shampoo Typhoon Veranda Yoga Guru bangle avatar"
+        },
+        {
+            "name": "Foolish Words",
+            "words": "airhead birdbrain blockhead dunce clown nincompoop dimwit doofus imbecile nitwit simpleton numskull dingbat dipstick dingaling ignoramus bozo goofball buffoon schmuck dumdum"
+        },
+        {
+            "name": "New York City",
+            "words": "Brooklyn Manhattan Bronx Queens Broadway Wallstreet chinatown borough subway hudson waldorf moma yankees flatiron guggenheim taxicab midtown theatre skyscraper columbia gotham harlem laguardia knicks rangers mets"
+        },
+        {
+            "name": "Science",
+            "words": "Chemistry Beaker Experiment Biology Physics Magnetism Newton Einstein Edison laser Geology Flask Testtube atom cell nucleus density particle gravity climate microscope organism molecule acid matter mineral prism"
+        },
+        {
+            "name": "Brand Names",
+            "words": "JCrew Applebees Gatorade Panasonic Facebook Amazon Boeing Rolex Lays Microsoft Starbucks Kleenex Nintendo Sony Duracell Chipotle Apple Spotify Instagram Ikea Redbull tacobell crocs netflix heinz Dell Google Cocacola Pepsi"
+        },
+        {
+            "name": "Countries",
+            "words": "Albania Algeria Argentina Armenia Australia Austria Azerbaijan Bahrain Bangladesh Belarus Belgium Belize Bhutan Bolivia Botswana Brazil Bulgaria Cambodia Cameroon Canada Chad Chile China Colombia CostaRica Croatia Cuba Cyprus Denmark Ecuador Egypt Estonia Ethiopia Finland France Georgia Germany Ghana Greece Greenland Guatemala Guinea Guyana Haiti Honduras Hungary Iceland India Indonesia Iran Iraq Ireland Israel Italy Jamaica Japan Jordan Kenya Kosovo Kuwait Latvia Lebanon Liberia Libya Lithuania Madagascar Malaysia Mexico Mongolia Morocco Nepal Nigeria Nicaragua Norway Pakistan Panama Peru Philippines Poland Portugal Romania Russia Senegal Serbia Singapore Slovakia Slovenia Somalia SouthAfrica Spain Sudan Sweden Switzerland Tajikistan Thailand Tunisia Turkey Uganda Ukraine Uruguay Venezela Vietnam Yemen Zambia Zimbabwe"
+        },
+        {
+            "name": "Math",
+            "words": "Polygon Algebra Geometry Arithmetic Addition Multiply Divide Power circle sphere area decimal integer fraction number formula calculus fractal graph statistics equation pattern quantity calculator function median average parabola sine cosine tangent digit numeral algorithm percent exponent count quotient positive negative factor"
+        },
+        {
+            "name": "Skiing",
+            "words": "Mountain Snow binding alpine glade trail boot winter slope downhill resort chairlift snowboard slalom mogul helmet goggles gloves grooming halfpipe ticket powder lodge terrain"
+        },
+        {
+            "name": "Instruments",
+            "words": "Maraca Tambourine Triangle Xylophone Drum Bagpipe Bassoon Bugle Clarinet Flute Horn Harmonica Violin Viola Cello Bass Harp Piccolo Oboe Saxophone Trumpet Trombone Tuba Timpani Gong Cymbals Piano Organ Whistle Accordion Fiddle Guitar Ukulele Sitar"
+        },
+        {
+            "name": "Chemistry",
+            "words": "Hydrogen Helium Lithium Carbon Nitrogen Oxygen Sodium Silicon Sulfur Chlorine Argon Calcium Titanium Iron Cobalt Nickel Copper Zinc Arsenic Silver Iodine Tungsten Iridium Platinum Mercury Lead Radon Radium Uranium Chemist Beaker Nucleus Acid Reaction Atom Proton Neutron Electron Solution Compound Element Alkaline Isotope solid liquid vapor catalyst bond crystal equilibrium freezing joule celcius matter metal melting mineral mixture molecule plasma energy"
+        },
+        {
+            "name": "Camping",
+            "words": "Tent Picnic wilderness trail hiking backpack climbing canoe hunting fishing forage campfire knife knot hammer lantern flashlight hatchet raincoat cooler firewood hammock lighter compass headlamp Kindling Canopy shovel adventure bivouac forest poncho smores cabin caravan equipment kayak knapsack sunrise sunset nature outdoor scenery sunscreen wildlife waterfall trailer"
+        },
+        {
+            "name": "Winter Sports",
+            "words": "biathlon bobsleigh broomball curling halfpipe hockey iceskate luge mogul mountain puck skating skeleton skiing sledding slope snowboard toboggan"
+        },
+        {
+            "name": "Dancing",
+            "words": "FOXTROT TANGO WALTZ BALLET POLKA SWING MAMBO RUMBA SALSA SAMBA LINE FLAMENCO MOVE STEP JITTERBUG CHARLESTON PARTNER BALLROOM MACARENA MOONWALK ZUMBA GANGNAM LOCOMOTION YMCA BREAKDANCE"
+        },
+        {
+            "name": "Insects",
+            "words": "BEETLE BUTTERFLY CICADA COCKROACH CRICKET DRAGONFLY EARWIG FLEA LADYBUG MANTIS MOSQUITO MOTH SCARAB SCORPION SPIDER TERMITE WASP"
+        },
+        {
+            "name": "Fruit",
+            "words": "APPLE APRICOT BANANA BLACKBERRY BLUEBERRY CHERRY CRANBERRY DATE FIG GRAPEFRUIT HONEYDEW KIWI LEMON LIME MANGO MELON NECTARINE ORANGE PAPAYA PEACH PEAR PINEAPPLE PLUM PRUNE PUMPKIN RAISIN RASPBERRY STRAWBERRY TANGERINE WATERMELON"
+        },
+        {
+            "name": "Vegetables",
+            "words": "ARTICHOKE ASPARAGUS BEET BROCCOLI CABBAGE CARROT CELERY CORN CUCUMBER EGGPLANT LEEK LETTUCE MUSHROOM ONION PEA POTATO RADISH SHALLOT SQUASH SPINACH TURNIP YAM ZUCCHINI"
+        },
+        {
+            "name": "Flowers",
+            "words": "BLOOM BUTTERCUP CARNATION DAFFODIL DAISY HIBISCUS HYACINTH HYDRANGEA LAVENDER LEAF LILAC LOTUS MAGNOLIA MARIGOLD ORCHID PANSY PEONY PERIWINKLE PETAL PETUNIA POLLEN POPPY ROSE TULIP VIOLET STEM SUCCULENT WITHER"
+        },
+        {
+            "name": "In the Kitchen",
+            "words": "APRON BLENDER CABINET COOKBOOK COUNTER CUTLERY DISHRACK DRAWER FLATWARE GRATER GRIDDLE KETTLE KNIFE LADLE NAPKIN OVEN PEELER PLACEMAT POTHOLDER SKILLET SPATULA STOVE STRAINER TABLECLOTH TIMER TOASTER WHISK"
+        },
+        {
+            "name": "Winter Clothing",
+            "words": "BEANIE BOOT CARDIGAN COAT EARMUFF FLEECE GLOVE HAT HOODIE JACKET JEANS LONGSLEEVE MITTEN PANTS PARKA PEACOAT PUFFER SCARF SWEATER SWEATSHIRT TRENCHCOAT TROUSERS VEST"
+        },
+        {
+            "name": "Fabrics",
+            "words": "ACRYLIC CASHMERE CHIFFON COTTON DENIM FELT JERSEY LACE LEATHER LINEN NATURAL NYLON POLYESTER RAYON SILK SPANDEX SUEDE SYNTHETIC TWEED VELVET WOOL"
+        },
+        {
+            "name": "Constellations",
+            "words": "ANDROMEDA AQUARIUS ARIES BIG DIPPER CANCER CAPRICORN CENTAURUS GEMINI HERCULES HYDRA LEO LIBRA ORION PERSEUS PHOENIX PISCES SCORPIO TAURUS VIRGO"
+        },
+        {
+            "name": "Music Genres",
+            "words": "BLUES CLASSICAL COUNTRY DISCO DUBSTEP FOLK FUNK GOSPEL GRUNGE HIPHOP JAZZ METAL POP PUNK REGGAE ROCK SOUL TECHNO DISCO FUNK TRANCE"
+        },
+        {
+            "name": "Baking",
+            "words": "BAKE BATTER BISCUIT BREAD CAKE COMBINE COOKIE CUSTARD CREAM DESSERT DOUGH FERMENT FLOUR FONDANT FROSTING GELATIN GLAZE GLUTEN GREASE KNEAD LEAVENING MILK MUFFIN OVEN PASTRY PROOF SUGAR WHISK YEAST"
+        },
+        {
+            "name": "Classic Costumes",
+            "words": "ANGEL ANIMAL CLOWN DINOSAUR DOCTOR GHOST KING LIFEGUARD MERMAID MONSTER NURSE PIRATE PUMPKIN QUEEN SAILOR SCARECROW SHERIFF SKELETON SUPERHERO VAMPIRE WEREWOLF WITCH WIZARD ZOMBIE"
+        }
+    ]
+}

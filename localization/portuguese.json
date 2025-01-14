@@ -1,0 +1,176 @@
+{
+    "gui": {
+        "title_line_1": " C A Ç A",
+        "title_line_2": "P A L A V R A S",
+        "difficulty": "DIFICULDADE",
+        "category": "CATEGORIA",
+        "language": "LÍNGUA",
+        "advanced_settings": "CONFIGURAÇÕES AVANÇADAS",
+        "beat_the_clock": "VENÇA O RELÓGIO",
+        "hide_the_words": "ESCONDA AS PALAVRAS",
+        "on": "Ligado",
+        "off": "Desligado",
+        "easy": "Fácil",
+        "medium": "Médio",
+        "hard": "Difícil",
+        "maniac": "Maníaco",
+        "play": "JOGAR",
+        "okay": "OK",
+        "solved": "Solucionado!",
+        "you_solved": "Você solucionou",
+        "new_puzzle": "NOVO QUEBRA-CABEÇAS",
+        "time_is_up": "O tempo acabou!",
+        "no": "NÃO",
+        "yes": "SIM",
+        "word_directions": "Instruções das palavras",
+        "give_up_and_reveal_the_puzzle": "Desistir e mostrar a resposta?",
+        "leave_this_puzzle": "Deixar este enigma?",
+        "with_time_left": "com {} sobrando!",
+        "random": "Aleatório",
+        "settings": "Configurações",
+        "sound": "Som",
+        "reveal_puzzle": "Revelar quebra-cabeça",
+        "restart_puzzle": "Reiniciar quebra-cabeça",
+        "new_puzzle_settings": "Novo quebra-cabeça",
+        "main_menu_settings": "Menu Principal",
+        "help_desc_for_maniac": "No Modo Maníaco, as palavras ficam escondidas e você só tem 2 minutos para encontrá-las todas!"
+    },
+    "categories": [
+        {
+            "name": "Idiomas",
+            "words": "Francês Inglês Espanhol Mandarim Latim Português  Árabe  Russo  Alemão Japonês Vietnamita Coreano Turco Italiano Polonês  Persa Búlgaro Indonésio Gaélico Romeno Galês Ucraniano Lituano hebraico Grego Coreano"
+        },
+        {
+            "name": "Esportes",
+            "words": "Beisebol Basquetebol Futebolamericano Futebol Hóquei Críquete Boliche Golfe  Bicicleta Pista Saltocomvara Natação Ginástica Boxe Lutalivre Mergulho Karatê Tênis  Raquete surfando Gol Timeuniversitário Estádio Arquibancadas Rafting   Árbitro Juiz"
+        },
+        {
+            "name": "Xadrez",
+            "words": "Peão Cavaleiro Bispo Rei Rainha Torre Castelo Xeque-mate Garfo Espetos Mestre Ataque Conselho Peças Preto Branco Impasse Abertura Sacrifício torneio Final Abandono Desistir Táticas Capivarada Captura"
+        },
+        {
+            "name": "Música",
+            "words": "Trompete Saxofone Violino Piano Clarineta Oboé Tambores Xilofone Órgão solista  Violoncelo Flauta   Teclado Harpa Guitarra Baixo Chocalho Fagote sinfonia maestro    Clássico Concerto   Rádio   amplificador    balada platina vinil"
+        },
+        {
+            "name": "Computadores",
+            "words": "processador codificação  programa     navegador teclado    páginainicial atualizar semfio  barradeespaço   macintosh     excluir tela vírus  rede memória servidor roteador gráficos hiperlink e-mail harddrive website aplicação arquivo pasta nuvem cabo interface comando código senha sistema admin circuito"
+        },
+        {
+            "name": "Café da Manhã",
+            "words": "Panqueca  Xarope Fruta   Manteiga Ovos Bacon Salsicha  Bolinhosfritosdebatata Lanchonete Suco Leite Café Omelete Aveia Mingau Iogurte  Bolinho Biscoitoamanteigado  Rosca Torrada Geléia Batatasfritas"
+        },
+        {
+            "name": "Animais Selvagens",
+            "words": "elefante rinoceronte ursopardo golfinho zebra girafa tatu chita leopardo porco-formigueiro leão tigre alces gorila babuíno hipopótamo hiena castor python lobo coala panda cobra guaxinim canguru orangotango esquilo pantera coiote doninha jacaré bisão carcaju"
+        },
+        {
+            "name": "Pássaros",
+            "words": "papagaio pombo pinguim pardal avestruz águia falcão pica-pau pisco-de-peito-ruivo ganso pato gaio-azul garça falcão tucano maçarico-rasteirinho lavandeira cardeal chapim pavão peru galinha andorinha garça canário periquito arara cacatua pintassilgo"
+        },
+        {
+            "name": "Bicho de Estimação",
+            "words": "Coelhinho Cobra Cachorro Gatinho Papagaio Peixedourado Rato canário Aquário Ninhada Coleira Alimentosparacães Alimentosparagatos Buscar Banhoetosa Camaleão Canário Coelho Pombo Pomba Guppy furão Iguana Tartaruga Salamandra Peixe-palhaço tarântula píton"
+        },
+        {
+            "name": "A Praia",
+            "words": "toalha máscarademergulhosnorkel queimadurasolar ondas contra-corrente algasmarinhas beira-mar areia Oceano Castelo Natação Pranchadesurf Concha Bronzeamento Tubarão Golfinho Caranguejo Balde Águasalgada Guarda-chuva Gaivota Estreladomar  descalço sandália chinelodededo óculosescuros pôr-do-sol navegando"
+        },
+        {
+            "name": "Carreras",
+            "words": "Cientista Professor Artista Ator Dançarino Astronauta Motoristadeônibus Doutor Advogado Engenheiro Empreiteiro Professor Banqueiro Policial Bombeiro Músico Atriz Politicista Principal Detetive Dentista Atleta Enfermeira Encanador Cirurgião Historiador Biólogo Farmacêutico Físico Açougueiro Jornalista Autor Garçom Juiz Barbeiro Zelador Bibliotecário Terapeuta Massagista Carteiro Maestro"
+        },
+        {
+            "name": "Piratas",
+            "words": "prancha gancho capitão tesouro ilha marinheirodeáguadoce caveira canhão espada barba-negra barba-vermelha barba-azul simbad baú saquear recompensa motim tapa-olho papagaio Navio Saque Foradalei Mares Ajudantedeconvés  Ouro Bússula  espada marujo dobrões bandeirapirata corsário escorbuto malandro ilhado âncora oceano galeão fragata bergantim veleiro"
+        },
+        {
+            "name": "Opcionais",
+            "words": "pepperoni anchovas abacaxi bacon salsicha pimentões cebola brócolis frango azeitonas espinafre cogumelo almôndega alho jalapeno alcachofra manjericão salsinha orégano parmesão tomate mussarela"
+        },
+        {
+            "name": "Palíndromos",
+            "words": "anilina  esse mamam  metem mirim mussum omissíssimo osso racificar saias rodador  raiar ralar ramar rapar rasar reger reler salas"
+        },
+        {
+            "name": "Sinônimos de Tolo",
+            "words": "cabeçaoca besta cabeça-dura burro palhaço tolo parvo bobalhão imbecil pateta simplório idiota inepto palerma paspalho ignorante otário tonto bufão bocó tantan"
+        },
+        {
+            "name": "Ciência",
+            "words": "Química Proveta Experiência Biologia Física Magnetismo     Geologia Frasco Tubodeensaio átomo cela núcleo densidade partícula gravidade clima microscópio organismo molécula ácido matéria mineral prisma"
+        },
+        {
+            "name": "Paises",
+            "words": "Albânia Argélia  Armênia Austrália Áustria Azerbaijão Bahrein   Bélgica Belize Butão Bolívia Botsuana Brasil Bulgária Camboja Camarões Canadá Chade   Colômbia CostaRica Croácia  Chipre Dinamarca Equador Egito Estônia Etiópia Finlândia França Geórgia Alemanha Gana Grécia Gronelândia Guatemala Guiné Guiana   Hungria Islândia Índia Indonésia Irã Iraque Irlanda Israel Itália Jamaica Japão Jordânia Cazaquistão Quênia Kosovo Kuwait Quirguizistão Letônia Líbano Libéria Líbia Lituânia Luxemburgo Madagascar Malásia México Mongólia Marrocos Moçambique Nepal NewZealand Nigéria Nicarágua Noruega Omã Paquistão Panamá Peru Filipinas Polônia Portugal Romênia Rússia SaudiArabia Senegal Sérvia Cingapura Eslováquia Eslovênia Somália ÁfricadoSul Espanha Sudão Suécia Suíça Tajiquistão Tailândia Tunísia Turquia Uganda Ucrânia Uruguai Venezela Vietnã Iêmen Zâmbia Zimbábue"
+        },
+        {
+            "name": "Matemática",
+            "words": "Polígono Álgebra Geometria Aritmética Acréscimo Multiplicar Divida Energia círculo esfera área decimal inteiro fração número fórmula cálculo fractal gráfico estatísticas equação padrão quantidade calculadora função mediana média parábola seno cosseno tangente dígito numeral algoritmo porcento expoente contar quociente positivo negativo fator"
+        },
+        {
+            "name": "Esquiar",
+            "words": "Montanha Neve amarração alpino deslizar trilha bota inverno rampa descida resort telecadeira snowboard slalom sobressaltodeneve capacete óculosdesportivos luvas manutenção halfpipe bilhete pó pousada terreno"
+        },
+        {
+            "name": "Instrumentos",
+            "words": "Maraca Tamborim Triângulo Xilofone Tambor Gaitadefoles Fagote Clarim Clarineta Flauta Trompa Harmonica Violino Viola Violoncelo Baixo Harpa Flautim Oboé Saxofone Trompete Trombone Tuba Timbale Gongo Címbalos Piano Órgão Apito Acordeão Violino Guitarra Ukulele Cítara"
+        },
+        {
+            "name": "Química",
+            "words": "Hidrogênio Hélio Lítio Carbono Nitrogênio Oxigênio Sódio Silício Enxofre Cloro Argônio Cálcio Titânio Ferro Cobalto Níquel Cobre Zinco Arsênico Prata Iodo Tungstênio Irídio Platina Mercúrio Chumbo Rádon Rádio Urânio Farmacêutico Proveta Núcleo Ácido Reação Átomo Proton Nêutron Elétron Solução Composto Elemento Alcalino Isotope sólido líquido vapor catalisador vínculo cristal equilíbrio congelamento joule celcius matéria metal derretimento mineral mistura molécula plasma energia"
+        },
+        {
+            "name": "Acampamento",
+            "words": "Tenda Piquenique mato trilha caminhada mochila escalada canoa caça pesca forragem fogueira faca nó martelo lanterna lanterna machadinha capadechuva cooler lenha rede isqueiro bússola farol acender Barraca pá aventura bivaque floresta poncho smores cabine caravana equipamentos caiaque mochila amanhecer pôr-do-sol natureza arlivre panorama protetorsolar vidaselvagem cachoeira trailer"
+        },
+        {
+            "name": "Esportes de Inverno",
+            "words": "BIATLO BOBSLED BROOMBALL CURLING HALFPIPE HÓQUEI ICESKATE LUGE MOGUL MONTANHA PUCK PATINAÇÃO SKELETON ESQUI SLEDDING DECLIVE SNOWBOARD TOBOGÃ"
+        },
+        {
+            "name": "Dança",
+            "words": "FOXTROTE TANGO VALSA BALÉ POLCA SWING MAMBO RUMBA SALSA SAMBA LINHA FLAMENCO MOVE PASSO JITTERBUG CHARLESTON PARCEIRO DANÇADESALÃO MACARENA MOONWALK ZUMBA GANGNAM LOCOMOTION YMCA BREAKDANCE"
+        },
+        {
+            "name": "Insetos",
+            "words": "FORMIGA BESOURO BUTTERFLY CIGARRA BARATA GRILO LIBÉLULA LACRAINHA PULGA JOANINHA LOUVA-A-DEUS MOSQUITO TRAÇA ESCARAVELHO ESCORPIÃO ARANHA TÉRMITAS VESPA"
+        },
+        {
+            "name": "Frutas",
+            "words": "MAÇÃ DAMASCO BANANA AMORA MIRTILO CEREJA CRANBERRY TÂMARA FIGO TORANJAS MELÃOAMARELO KIWI LIMÃO CAL MANGA MELÃO NECTARINA LARANJA PAPAIA PÊSSEGO PÊRA ABACAXI AMEIXA PODA ABÓBORA PASSA FRAMBOESA MORANGO TANGERINA MELANCIA"
+        },
+        {
+            "name": "Vegetais",
+            "words": "ALCACHOFRA ESPARGOS BETERRABA BRÓCOLIS COUVE CENOURA AIPO MILHO PEPINO BERINJELA ALHO-PORÓ ALFACE COGUMELO CEBOLA ERVILHA BATATA RÁBANO CHALOTA ABÓBORA ESPINAFRES NABO INHAME ABOBRINHA"
+        },
+        {
+            "name": "Flores",
+            "words": "FLORESCER BOTÃO-DE-OURO CRAVO NARCISO MARGARIDA HIBISCO JACINTO HORTÊNSIA LAVANDA FOLHA LILÁS LÓTUS MAGNÓLIA CALÊNDULA ORQUÍDEA AMOR-PERFEITO PEÔNIA PERVINCA PÉTALA PETÚNIA PÓLEN PAPOULA ROSA TÚLIPA VIOLETA HASTE SUCULENTA MURCHAR"
+        },
+        {
+            "name": "Na Cozinha",
+            "words": "AVENTAL LIQUIDIFICADOR GABINETE LIVRODERECEITAS BALCÃO CUTELARIA ESCORREDORDEPRATOS GAVETA FAQUEIROS RALADOR FORMA CHALEIRA FACA CONCHA GUARDANAPO FORNO DESCASCADOR JOGOAMERICANO PEGA-PANELA FRIGIDEIRA ESPÁTULA FOGÃO FILTRO TOALHADEMESA TEMPORIZADOR TORRADEIRA BATEDOR"
+        },
+        {
+            "name": "Roupas de Inverno",
+            "words": "GORRO BOTA CARDIGÃ CASACO ORELHEIRA VELO LUVA CHAPÉU MOLETOM JAQUETA JEANS MANGACOMPRIDA MITENE CALÇAS PARCA CASACOAT JAQUETAPUFFER CACHECOL SUÉTER BLUSÃODEMOLETOM CASACODECHUVA CALÇAS COLETE"
+        },
+        {
+            "name": "Tecidos",
+            "words": "ACRÍLICO CASHMERE CHIFON ALGODÃO DENIM FELTRO MALHA RENDA COURO LINHO NATURAL NÁILON POLIÉSTER RAIOM SEDA ELASTANO CAMURÇA SINTÉTICO TWEED VELUDO LÃ"
+        },
+        {
+            "name": "Constelações",
+            "words": "ANDRÓMEDA AQUARIUS ÁRIES URSAMAIOR CÂNCER CAPRICÓRNIO CENTAURO GÊMEOS HERCULES HIDRA LEO LIBRA ORION PERSEU FÊNIX PISCES ESCORPIÃO TAURUS VIRGO"
+        },
+        {
+            "name": "Confeitaria",
+            "words": "ASSAR BATEDOR BISCOITO PÃO BOLO MISTURAR COOKIE PASTELARIA CREMES SOBREMESA MASSA FERMENTAR FARINHA FONDANT COBERTURA GELATINA GLACÊ GLÚTEN GORDURA AMASSAR FERMENTAÇÃO LEITE BOLINHO FORNO PASTELARIA PROVA AÇÚCAR BATEDOR LEVEDURA"
+        },
+        {
+            "name": "Figurinos Clássicos",
+            "words": "ANJO ANIMAL PALHAÇO DINOSSAURO DOUTOR FANTASMA REI SALVA-VIDAS SEREIA MONSTRO ENFERMEIRA PIRATA ABÓBORA RAINHA MARINHEIRO ESPANTALHO XERIFE ESQUELETO SUPER-HERÓI VAMPIRO LOBISOMEM BRUXA FEITICEIRO ZUMBI"
+        }
+    ]
+}

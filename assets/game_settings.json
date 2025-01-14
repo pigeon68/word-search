@@ -1,0 +1,38 @@
+{
+    "baseTime": {
+        "easy": {
+            "hideTheWordsON": 120,
+            "hideTheWordsOFF": 60
+        },
+        "medium": {
+            "hideTheWordsON": 120,
+            "hideTheWordsOFF": 60
+        },
+        "hard": {
+            "hideTheWordsON": 120,
+            "hideTheWordsOFF": 60
+        },
+        "maniac": {
+            "hideTheWordsON": 120,
+            "hideTheWordsOFF": -1
+        }
+    },
+    "bonusTime": {
+        "easy": {
+            "hideTheWordsON": 20,
+            "hideTheWordsOFF": 10
+        },
+        "medium": {
+            "hideTheWordsON": 20,
+            "hideTheWordsOFF": 10
+        },
+        "hard": {
+            "hideTheWordsON": 20,
+            "hideTheWordsOFF": 10
+        },
+        "maniac": {
+            "hideTheWordsON": 20,
+            "hideTheWordsOFF": -1
+        }
+    }
+}

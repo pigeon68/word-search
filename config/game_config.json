@@ -1,0 +1,45 @@
+{
+    "primaryFont": {
+        "family": "Century Gothic"
+    },
+    "secondaryFont": {
+        "family": "Concert One"
+    },
+    "languages": {
+        "en": {
+            "key": "english",
+            "name": "English",
+            "filename": "english.json",
+            "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        },
+        "es": {
+            "key": "spanish",
+            "name": "Español",
+            "filename": "spanish.json",
+            "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÜÑ"
+        },
+        "it": {
+            "key": "italian",
+            "name": "Italiano",
+            "filename": "italian.json",
+            "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZÀÈÉÌÒÙ"
+        },
+        "fr": {
+            "key": "french",
+            "name": "Français",
+            "filename": "french.json",
+            "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZÇÉÀÈÌÒÙ"
+        },
+        "pt-br": {
+            "key": "portuguese",
+            "name": "Portugues",
+            "filename": "portuguese.json",
+            "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZÃÇÉÍÓÚÂÊÕÁÔÀ"
+        }
+    },
+    "gameplay": {
+        "rows": 10,
+        "reels": 10,
+        "wordsNumber": 12
+    }
+}

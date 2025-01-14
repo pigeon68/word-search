@@ -1,0 +1,204 @@
+{
+    "gui": {
+        "title_line_1": " S O P A   D E",
+        "title_line_2": "L E T R A S",
+        "difficulty": "DIFICULTAD",
+        "category": "CATEGORÍA",
+        "language": "IDIOMA",
+        "advanced_settings": "AJUSTES AVANZADOS",
+        "beat_the_clock": "GANAR AL RELOJ",
+        "hide_the_words": "OCULTAR LAS PALABRAS",
+        "on": "On",
+        "off": "Off",
+        "easy": "Fácil",
+        "medium": "Medio",
+        "hard": "Difícil",
+        "maniac": "Maníaco",
+        "play": "JUGAR",
+        "okay": "OKAY",
+        "solved": "¡Resuelto!",
+        "you_solved": "Tú resolviste",
+        "new_puzzle": "NUEVO PUZZLE",
+        "time_is_up": "¡Se acabó el tiempo!",
+        "no": "NO",
+        "yes": "SÍ",
+        "word_directions": "Instrucciones de la palabra",
+        "give_up_and_reveal_the_puzzle": "¿Rendirse y revelar el puzzle?",
+        "leave_this_puzzle": "¿Salir de este puzzle?",
+        "with_time_left": "Con {} restante",
+        "random": "Al Azar",
+        "settings": "Ajustes",
+        "sound": "Sonido",
+        "reveal_puzzle": "Revelar rompecabezas",
+        "restart_puzzle": "Reiniciar rompecabezas",
+        "new_puzzle_settings": "Nuevo rompecabezas",
+        "main_menu_settings": "Menú Principal",
+        "help_desc_for_maniac": "¡En el modo Maniac, las palabras están ocultas y solo tienes 2 minutos para encontrarlas todas!"
+    },
+    "categories": [
+        {
+            "name": "Espacio Exterior",
+            "words": "Planeta Naveespacial Astronauta Cohete Luna Saturno Urano Júpiter Marte Venus Mercurio Plutón Neptuno Gravedad Galaxia Cometa Estrella Órbita Asteroide Agujeronegro Eclipse Víaláctea Nebula Supernova Solar Añoluz Racimo Estrelladelnorte Satélite Universo"
+        },
+        {
+            "name": "Idiomas",
+            "words": "Francés Inglés Español Mandarín Latín Portugués Hindú Árabe Bengalí Ruso Punjabi Alemán Japonés Vietnamita Coreano Turco Italiano Polaco Swahili Persa Búlgaro Indonesio Gaélico Rumano Galés Ucraniano Lituano hebreo Griego Coreano"
+        },
+        {
+            "name": "Ciudades del Mundo",
+            "words": "Washington Toronto Berlín París Londres Barcelona Madrid Amsterdam Pekín Delhi Shanghai Dublín Tokio Seúl Cairo Moscú Chicago Teherán Bagdad Atenas Estambul Viena Lagos Jerusalén Lisboa Nairobi LasVegas Hongkong Oslo Roma Kiev Lima Budapest Sydney Frankfurt Vancouver Montreal Alejandría"
+        },
+        {
+            "name": "Deportes",
+            "words": "Béisbol Baloncesto FútbolAmericano Fútbol Hockey Cricket Bolos Golf Frisbee Bicicleta Pista Salto Natación Gimnasia Boxeo Luchalibre Buceo Karate Tenis Lacrosse Racket Surf Estadio Gradas Jersey playoffs Árbitro Umpire"
+        },
+        {
+            "name": "Ajedrez",
+            "words": "Peón Alfil Rey Reina Castillo Jaquemate Maestro Ataque Tablero Piezas Negro Blanco Estancamiento Abrir Sacrificio torneo Final Forfeit Renuncia Tácticas Error Captura"
+        },
+        {
+            "name": "Música",
+            "words": "Trompeta Saxofón Violín Piano Clarinete Oboe Tambores Xilófono Órgano solista Viola Cello Flauta Trombón Tuba Teclado Arpa Guitarra Bajo Cencerro Fagot sinfonía conductor Solo Tempo Jazz Clásico Concierto Recital hiphop Radio spotify pandora amplificador bluegrass motown soprano balada platino vinilo"
+        },
+        {
+            "name": "Computadoras",
+            "words": "procesador programación hacker programa wifi bluetooth digital internet navegador teclado monitor chip byte inicio actualizar inalámbrico software espacio borrar ventanas macintosh laptop chromebook ratón cursor borrar pantalla virus microsoft red memoria servidor router gráficos hipervínculo email discoduro sitioweb aplicación archivo carpeta nube cable interfaz comando código contraseña sistema admin circuito"
+        },
+        {
+            "name": "Desayuno",
+            "words": "Panqueca Waffle Sirop Fruta Cereales Mantequilla Huevos Tocineta Salchicha Smoothie Jugo Leche Café Omelette Harinadeavena Yogur Granola Panecillo Danés Bagels Tostadas Mermelada Papas"
+        },
+        {
+            "name": "Animales Salvajes",
+            "words": "elefante rinoceronte oso delfín cebra jirafa armadillo cheetah leopardo león tigre alce gorila babuino hipopótamo hiena castor piton lobo koala panda cobra mapache canguro orangután Ardilla pantera coyote comadreja caimán bisonte lobezno"
+        },
+        {
+            "name": "Pájaros",
+            "words": "loro paloma pingüino gorrión avestruz águila halcón carpintero robin ganso pato bluejay garza halcón tucán sandpiper chorlito cardenal chickadee pavoreal pavo pollo garza canario periquito guacamayo cacatúa jilguero"
+        },
+        {
+            "name": "Perros",
+            "words": "Snoopy Plutón Lassie beagle bulldog caniche labrador boxeador collie galgo pastor husky mastín yorkie Chihuahua Dachshund doberman scoobydoo sabueso dálmata Rottweiler spaniel whippet foxhound clifford Beethoven pitbull terrier"
+        },
+        {
+            "name": "Equipos de béisbol",
+            "words": "Orioles Braves RedSox Cubs Reds Indians whitesox Tigers Rockies Dodgers Astros Royals Marlins Brewers Angels Twins Mets Yankees Phillies Pirates Athletics Padres Mariners Rays Giants Cardinals Rangers BlueJays Nationals"
+        },
+        {
+            "name": "Mascotas",
+            "words": "Pulguita Conejito Serpiente Cachorro Gatito Loro Pez Ratón canario Pecera Camada Correa Comidadeperros Comidadegatos Cuidado Camaleón Canario Conejo Paloma Gaviota Guppy hurón Iguana Tortuga Salamandra tarántula piton"
+        },
+        {
+            "name": "La playa",
+            "words": "toalla esnórquel quemadura olas marea algas orilla arena Océano Castillo Natación Tabladesurf concha Bronceado Tiburón Delfín Cangrejo Cubo Aguasalada Paraguas Gaviota Estrellademar refrigerador pies{descalzos sandalia chancleta gafasdesol atardecer navegar"
+        },
+        {
+            "name": "Carreras",
+            "words": "Científico Profesor Artista Actor Bailarina Astronauta Conductordeautobús Doctor Abogado Ingeniero Contratista Profesor Banquero Policía Bombero Músico Actriz Político Director Detective Dentista Atleta Enfermera Fontanero Cirujano Historiador Biólogo Químico Físico Carnicero Periodista Autor Camarero Juez Barbero Conserje Bibliotecario Terapeuta Masajista Cartero Conductor"
+        },
+        {
+            "name": "Piratas",
+            "words": "tablón gancho capitán tesoro isla calavera cañón espada barbanegra barbaroja barbaazul sinbad cofre saqueo recompensa motín parche loro Barco Botín Bandido Mares Marinero Gorrión Oro Brújula Ahoy compa doblones jollyroger corsario escorbuto abandonado ancla océano galeón fragata bergantín"
+        },
+        {
+            "name": "Superhéroes",
+            "words": "superman spiderman wolverine gambito thor hulk rogue batman robin tormenta cíclope coloso flash iceman ironman daredevil blackwidow loki mystique magneto doctordoom"
+        },
+        {
+            "name": "Halloween",
+            "words": "disfraz calabaza truco dulce caramelo momia monstruo vampiro timbre gatonegro bruja palodeescoba araña octubre máscara espeluznante fantasma embrujado chocolate Esqueleto Hombrelobo Calavera Cuervo Lunallena Caldero asustar cementerio espíritu espectro lápida zombi telaraña fantasma espantapájaros"
+        },
+        {
+            "name": "Toppings de Pizza",
+            "words": "pepperoni anchoas piña tocineta salchicha pimientos cebolla brócoli pollo aceitunas espinacas hongos albóndiga ajo jalapeño alcachofa albahaca perejil orégano parmesano tomate mozzarella"
+        },
+        {
+            "name": "Autos",
+            "words": "Mustang Corvette Chevrolet Ford Chrysler Dodge Toyota Honda Nissan Mazda Hyundai Buick Cadillac Jaguar Mitsubishi Mercedes Subaru Volkswagen Volvo Lexus Ferrari Tesla Porsche Delorean Beetle Sedán Crossover Híbrido Minivan Pickup Jeep RollsRoyce Audi Wrangler Humvee Escalade acura Limusina Prius"
+        },
+        {
+            "name": "Películas de Animación",
+            "words": "Cenicienta Hércules Aladino Reyleon Frozen Bambi Pinocho Fantasía Moana Valiente Cars Walle Toystory Bugslife Bolt Dumbo Mulan Pocahontas Blancanieves Tarzán Zootopia Minions"
+        },
+        {
+            "name": "Ciencia",
+            "words": "Química Vaso Experimento Biología Física Magnetismo Newton Einstein Edison láser Geología Frasco Tubodeensayo átomo célula núcleo densidad partícula gravedad clima microscopio organismo molécula ácido materia mineral prisma"
+        },
+        {
+            "name": "Países",
+            "words": "Albania Argelia Argentina Armenia Australia Austria Azerbaiyán Bahrein Bangladesh Bielorrusia Bélgica Belice Bhután Bolivia Botswana Brasil Bulgaria Camboya Camerún Canadá Chad Chile China Colombia CostaRica Croacia Cuba Chipre Dinamarca Ecuador Egipto Estonia Etiopía Finlandia Francia Georgia Alemania Ghana Grecia Groenlandia Guatemala Guinea Guyana Haití Honduras Hungría Islandia India Indonesia Irán Iraq Irlanda Israel Italia Jamaica Japón Jordania Kazajistán Kenia Kosovo Kuwait Kirguistán Letonia Líbano Liberia Libia Lituania Luxemburgo Madagascar Malasia México Mongolia Marruecos Mozambique Nepal Nueva Zelanda Nigeria Nicaragua Noruega Omán Pakistán Panamá Perú Filipinas Polonia Portugal Rumanía Rusia Senegal Serbia Singapur Eslovaquia Eslovenia Somalia Sudáfrica España Sudán Suecia Suiza Tayikistán Tailandia Túnez Turquía Uganda"
+        },
+        {
+            "name": "Matemáticas",
+            "words": "Polígono Álgebra Geometría Aritmética Sumar Multiplicar Dividir Potencia círculo esfera zona decimal entero fracción número fórmula cálculo fractal gráfico estadísticas ecuación patrón cantidad calculadora función mediana media parábola seno coseno tangente dígito número algoritmo porciento exponente contar cociente positivo negativo factor"
+        },
+        {
+            "name": "Esquí",
+            "words": "Montaña Nieve alpino sendero arranque invierno pendiente descenso resort telesilla snowboard eslalon mogul casco gafas guantes cuidado halfpipe ticket polvo hospedaje terreno"
+        },
+        {
+            "name": "Instrumentos",
+            "words": "Maraca Pandereta Triángulo Xilófono Tambor Gaita Fagot Corneta Clarinete Flauta Cuerno Armónica Violín Viola Cello Bajo Arpa Piccolo Oboe Saxofón Trompeta Trombón Tuba Timbales Gong Platillos Piano Órgano Silbato Acordeón Violín Guitarra Ukulele Sitar"
+        },
+        {
+            "name": "Química",
+            "words": "Hidrógeno Helio Litio Carbono Nitrógeno Oxígeno Sodio Silicio Azufre Cloro Argón Calcio Titanio Hierro Cobalto Níquel Cobre Zinc Arsénico Plata Yodo Tungsteno Iridium Platino Mercurio Plomo Radón Radium Uranio Químico Vaso Núcleo Ácido Reacción Átomo Proton Neutrón Electrón Solución Compuesto Elemento Alcalino Isótopo sólido líquido vapor catalizador bono cristal equilibrio congelación joule celcius materia metal fundiendo mineral mezcla molécula plasma energía"
+        },
+        {
+            "name": "Camping",
+            "words": "Tiendadecampaña Picnic desierto sendero senderismo mochila escalada canoa cazar pesca forraje hoguera cuchillo nudo martillo lámpara linterna hacha chubasquero refrigerador leña hamaca encendedor brújula faro toldo pala aventura vivac bosque poncho smores cabina caravana equipo kayak mochila amanecer atardecer naturaleza airelibre escenario protectorsolar faunayflora cascada remolque"
+        },
+        {
+            "name": "Deportes de Invierno",
+            "words": "BIATHLON BOBSLEIGH BROMBOLA CURLING HALFPIPE HOCKEY ICESKATE LUGE MOGUL MONTAÑA PUCK PATINAJE ESQUELETO ESQUÍ TRINEO PENDIENTE SNOWBOARD TOBOGÁN"
+        },
+        {
+            "name": "Bailes",
+            "words": "FOXTROT TANGO WALTZ BALLET POLKA SWING MAMBO RUMBA SALSA SAMBA LÍNEA FLAMENCO MOVER PASO JITTERBUG CHARLESTON PAREJA SALÓN MACARENA MOONWALK ZUMBA GANGNAM LOCOMOTION YMCA BREAKDANCE"
+        },
+        {
+            "name": "Insectos",
+            "words": "HORMIGA BEETLE MARIPOSA CICADA CUCARACHA CRICKET LIBÉLULA PULGA MARIQUITA MANTIS MOSQUITO POLILLA ESCARABAJO ESCORPIÓN ARAÑA TERMITA AVISPA"
+        },
+        {
+            "name": "Fruta",
+            "words": "MANZANA ALBARICOQUE PLÁTANO MORA ARÁNDANO CEREZA ARÁNDANO DÁTIL FIG POMELO MELAZO KIWI LIMÓN LIMA MANGO MELÓN NECTARINA NARANJA PAPAYA MELOCOTÓN PERA PIÑA CIRUELA CIRUELAPASA CALABAZA PASAS FRAMBUESA FRESA MANDARINA SANDÍA"
+        },
+        {
+            "name": "Verduras",
+            "words": "ALCACHOFA ASPÁRRAGO REMOLACHA BRÓCOLI REPOLLO ZANAHORIA APIO MAÍZ PEPINO BERENJENA PUERRO LECHUGA HONGOS CEBOLLA GUISANTE PATATA RÁDANO CHALOTA CALABAZA ESPINACAS NABO BATATA CALABACÍN"
+        },
+        {
+            "name": "Flores",
+            "words": "FLORECIMIENTO RANÚNCULO CLAVEL NARCISO MAYA HIBISCO JACINTO HORTENSIA LAVANDA HOJA LILAC LOTUS MAGNOLIA CALÉNDULA ORQUÍDEA PANSY PEONÍA PÉTALO PETUNIA POLEN AMAPOLA ROSA TULIPÁN VIOLETA TALLO SUCULENTO MARCHITARSE"
+        },
+        {
+            "name": "En la Cocina",
+            "words": "DELANTAL LICUADORA GABINETE LIBRODECOCINA CONTADOR CUBIERTOS CAJÓN CUBIERTOS RALLADOR PLANCHA CAFETERA CUCHILLO CUCHARÓN SERVILLETA HORNO PELADOR MANTEL AGARRADERA SARTÉN ESPÁTULA ESTUFA COLADOR MANTEL TEMPORIZADOR TOSTADORA BATIDOR"
+        },
+        {
+            "name": "Ropa de Invierno",
+            "words": "BEANIE BOTAS CHAQUETA ABRIGO OREJERA LANA GUANTE SOMBRERO SUÉTER CHAQUETA JEANS MANGALARGA GUANTES PANTALONES PARKA GABARDINA INHALADOR BUFANDA SUÉTER SUDADERA GABARDINA PANTALONES CHALECO"
+        },
+        {
+            "name": "Telas",
+            "words": "ACRÍLICO CACHEMIRA CHIFÓN ALGODÓN DENIM FIELTRO JERSEY ENCAJE CUERO LINO NATURAL NYLON POLIÉSTER RAYÓN SEDA SPANDEX GAMUZA SINTÉTICO TERCIOPELO LANA"
+        },
+        {
+            "name": "Constelaciones",
+            "words": "ANDROMEDA ACUARIO ARIES BIGDIPPER CÁNCER CAPRICORNIO CENTAURO GEMINI HÉRCULES HYDRA LEO LIBRA ORIÓN PERSEO FÉNIX PISCES ESCORPIO TAURO VIRGO"
+        },
+        {
+            "name": "Géneros Musicales",
+            "words": "BLUES CLÁSICO COUNTRY DISCO DUBSTEP FOLK FUNK GOSPEL GRUNGE HIPHOP JAZZ METAL POP PUNK REGGAE ROCK SOUL TECHNO DISCO FUNK TRANCE"
+        },
+        {
+            "name": "Cocina",
+            "words": "HORNEAR BATIR GALLETA PAN PASTEL COMBINAR GALLETA NATILLA CREMA POSTRE MASA FERMENTO HARINA FONDANT FROSTING GELATINA GLASEADO GLUTEN GRASA AMASAR LEVADURA LECHE PANECILLO HORNO PASTELERÍA PRUEBA AZÚCAR BATIDOR LEVADURA"
+        },
+        {
+            "name": "Disfraces Clásicos",
+            "words": "ANGEL ANIMAL PAYASO DINOSAURIO DOCTOR FANTASMA REY SALVAVIDAS SIRENA MONSTRUO ENFERMERA PIRATA CALABAZA REINA MARINERO ESPANTAPÁJAROS SHERIFF ESQUELETO SUPERHÉROE VAMPIRO HOMBRE LOBO BRUJA MAGO ZOMBI"
+        }
+    ]
+}
